@@ -33,7 +33,7 @@ AWS Certified (AWS-CCP).
 
 ## 🚀 Tech Stack
 
-![AWS](https://img.shields.io/badge/Amazon%@20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-F24236?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
