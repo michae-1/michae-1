@@ -11,10 +11,9 @@
 ---
 
 ## About Me
-AWS Certified.
+AWS Certified (AWS-CCP).
 
----
-My Skills:
+## My Skills:
 - 💻 Cloud Computing: AWS & GCP
 - 🤖 AI: SageMaker, Bedrock
 - 🛠 System Admin: Microsoft stack
