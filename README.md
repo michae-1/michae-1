@@ -11,7 +11,9 @@
 ---
 
 ## About Me
-Focused on: Cloud Computing, AWS Certified.
+AWS Certified.
+
+---
 My Skills:
 - 💻 Cloud Computing: AWS & GCP
 - 🤖 AI: SageMaker, Bedrock
