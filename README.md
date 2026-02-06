@@ -24,7 +24,7 @@ AWS Certified (AWS-CCP).
 
 ## Projects
 - [Click Here](https://skillsprofile.skillbuilder.aws/user/michaelkimani/simulearn) – AWS Projects
-- [Click Here](https://www.skills.google/public_profiles/6be34c93-4eaf-42b2-a238-fdc3e533db3e/badges) – GCP Projects
+- [Click Here](https://www.skills.google/public_profiles/6be34c93-4eaf-42b2-a238-fdc3e533db3e) – GCP Projects
 
 ---
 
@@ -33,11 +33,11 @@ AWS Certified (AWS-CCP).
 
 ## 🚀 Tech Stack
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%@20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-F24236?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
