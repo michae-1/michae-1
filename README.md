@@ -11,8 +11,9 @@
 ---
 
 ## About Me
-- 💻 Focused on: Cloud Computing, AWS Certified.
+Focused on: Cloud Computing, AWS Certified.
 My Skills:
+- 💻 Cloud Computing: AWS & GCP
 - 🤖 AI: SageMaker, Bedrock
 - 🛠 System Admin: Microsoft stack
 - 🌐 Networking & Cybersecurity: Intermediate
@@ -29,9 +30,16 @@ My Skills:
 ## Connect
 - LinkedIn: [Click Here](https://linkedin.com/in/michael-kimani-g)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-F24236?style=for-the-badge&logo=google-cloud&logoColor=white)
+## 🚀 Tech Stack
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 <!--
 **michae-1/michae-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
