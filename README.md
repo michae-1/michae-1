@@ -2,7 +2,7 @@
 
 ---
 
-🚀 AWS Cloud Engineer | IT Tech Support | System Admin
+AWS Cloud Engineer | IT Tech Support | System Admin
 
 ---
 
